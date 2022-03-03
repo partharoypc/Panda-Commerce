@@ -1,5 +1,5 @@
 .container {
-    padding-bottom: 50px;
+    padding-bottom: 80px;
 }
 
 .custom-bg {
@@ -66,5 +66,20 @@
 
 .card {
     border: none;
+    border-radius: 10px;
     box-shadow: 5px 5px 10px lightgray;
+}
+
+.section-title {
+    padding-bottom: 10px;
+}
+
+.card-footer {
+    background-color: white;
+    border-top: none;
+    padding: 0;
+}
+
+#subscribe {
+    height: 300px;
 }
