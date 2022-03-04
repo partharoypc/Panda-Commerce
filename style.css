@@ -80,6 +80,15 @@
     padding: 0;
 }
 
-#subscribe {
-    height: 300px;
+.subscribe {
+    height: auto;
+}
+
+.main-cont {
+    padding-top: 60px;
+    color: rgb(128, 128, 128);
+}
+
+footer {
+    text-align: center;
 }
